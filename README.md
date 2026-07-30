@@ -137,11 +137,3 @@ All notebooks executed end-to-end with zero failures:
 | `test_aggregation_layer.py` | 8 | GroupBy logic, profit sum matches source, dimensions correct |
 | `test_validations.py` | 14 | All 7 validation functions (pass + fail cases using pytest.raises) |
 | `test_integration.py` | 16 | Actual Delta tables: row counts, unique keys, no NULL categories, profit reconciliation, categories == [Furniture, Office Supplies, Technology] |
-
-## For Reviewer
-
-See `ARCHITECTURE.md` for:
-- Detailed explanation of every function (what/how/why)
-- Alternatives considered and rejected with reasoning
-- Potential reviewer questions with prepared answers
-- Complete verified output metrics
