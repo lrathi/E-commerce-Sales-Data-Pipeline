@@ -1,4 +1,4 @@
-# PEI — E-commerce Sales Data Pipeline
+# E-commerce Sales Data Pipeline
 
 ## Overview
 
